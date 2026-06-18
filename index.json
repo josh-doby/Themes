@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "themes": [
+    {
+      "id": "bluesneyplus",
+      "displayName": "BluesneyPlus",
+      "file": "themes/bluesneyplus.theme.json"
+    },
+    {
+      "id": "greenlu",
+      "displayName": "Greenlu",
+      "file": "themes/greenlu.theme.json"
+    },
+    {
+      "id": "midnight",
+      "displayName": "Midnight",
+      "description": "Deep navy dark theme with cyan accents.",
+      "file": "themes/midnight.theme.json"
+    },
+    {
+      "id": "pruplemax",
+      "displayName": "Purple Max",
+      "file": "themes/pruplemax.theme.json"
+    },
+    {
+      "id": "redflix",
+      "displayName": "Redflix",
+      "file": "themes/redflix.theme.json"
+    }
+  ]
+}
